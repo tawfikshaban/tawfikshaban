@@ -5,7 +5,7 @@ Front-End Developer
 -------------------
 
 * 🌍  I'm based in Egypt
-* 🖥️  See my portfolio at [MyPortfolio](http://https://tawfikshaban.github.io/Portfolio/)
+* 🖥️  See my portfolio at [MyPortfolio](https://tawfikshaban.github.io/Portfolio/)
 * ✉️  You can contact me at [teefashaban@gmail.com](mailto:teefashaban@gmail.com)
 * 🧠  I'm learning Vue.JS
 
